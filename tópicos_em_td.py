@@ -3,9 +3,6 @@ import numpy as np
 import random as rd
 from statistics import mean
 
-# 1 p direita
-# -1 q esquerda
-
 ####################################### Condições Iniciais #######################################
 
 N = 1000
